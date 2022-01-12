@@ -20,4 +20,4 @@ Model Summary:
 | Model | GPU Config | Execution Time (s) | CV Average | Test Score |
 | --- | --- | --- | --- | --- |
 | **LightGBM with Tf-Idf** | None | 72.1 | 0.96 | 0.96 |
-| **RoBERTa Base** | Tesla P100 | 282 | 0.98 | 0.99 |
+| **RoBERTa Base** | Tesla P100 16GB | 282 | 0.98 | 0.99 |
